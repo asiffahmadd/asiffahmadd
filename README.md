@@ -34,7 +34,7 @@ var asif = new Developer {
     Experience  = "2+ years",
     Location    = "Bengaluru, Karnataka, India",
     CurrentWork = "Quantum BSO",
-    Languages   = new[] { "C#", "SQL", "Java", "TypeScript" },
+    Languages   = new[] { "C#",".Net", "SQL", "Java", "TypeScript" },
     PassionFor  = "Scalable APIs, Clean Code & Problem Solving"
 };
 ```
