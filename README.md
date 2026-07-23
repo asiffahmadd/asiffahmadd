@@ -147,7 +147,7 @@ A full-stack web application to manage college operations including students, fa
 </a>
 
 <a href="tel:+917633870940">
-<img src="https://img.shields.io/badge/Phone-%2B91%2099999%2099999-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Phone-%2B91%2076338%2070940-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/asif-ahmad-ab99b2221/" target="_blank">
@@ -170,8 +170,4 @@ A full-stack web application to manage college operations including students, fa
 
 </p>
 
-<p align="center">
-  <i>"Clean code is not written by following a set of rules. It is written by a craftsman."</i>
-  <br><br>
-  ⭐ <b>If you like my work, consider starring my repositories!</b>
-</p>
+
