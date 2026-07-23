@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Asif+Ahmad;Backend+Developer+(.NET+%2B+Angular);Building+Scalable+APIs+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E75B6&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Asif+Ahmad;.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+Web+API;SQL+Server+%7C+Entity+Framework+Core" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🔷 .NET Developer | ASP.NET Core | SQL Server | Angular | Bengaluru, India</h3>
