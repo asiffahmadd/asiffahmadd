@@ -27,6 +27,38 @@
 </p>
 
 ---
+---
+## 📬 Contact Me
+
+<p align="center">
+
+<a href="mailto:asiffahmadd@gmail.com">
+<img src="https://img.shields.io/badge/Email-asiffahmadd%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="tel:+917633870940">
+<img src="https://img.shields.io/badge/Phone-%2B91%2076338%2070940-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/asif-ahmad-ab99b2221/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Asif%20Ahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/asiffahmadd" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-asiffahmadd-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+📧 **Email:** asiffahmadd@gmail.com  
+📱 **Phone:** +91 7633870940  
+📍 **Location:** Bengaluru, Karnataka, India  
+💼 **LinkedIn:** https://www.linkedin.com/in/asif-ahmad-ab99b2221/  
+💻 **GitHub:** https://github.com/asiffahmadd
+
+</p>
 
 
 ## 👨‍💻 About Me
@@ -127,37 +159,5 @@ A full-stack web application to manage college operations including students, fa
 
 - 🥈 **NPTEL Silver Badge** — Programming in Java (75%) — 2021 & 2022
 
----
-## 📬 Contact Me
-
-<p align="center">
-
-<a href="mailto:asiffahmadd@gmail.com">
-<img src="https://img.shields.io/badge/Email-asiffahmadd%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="tel:+917633870940">
-<img src="https://img.shields.io/badge/Phone-%2B91%2076338%2070940-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/asif-ahmad-ab99b2221/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Asif%20Ahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/asiffahmadd" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-asiffahmadd-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-
-📧 **Email:** asiffahmadd@gmail.com  
-📱 **Phone:** +91 7633870940  
-📍 **Location:** Bengaluru, Karnataka, India  
-💼 **LinkedIn:** https://www.linkedin.com/in/asif-ahmad-ab99b2221/  
-💻 **GitHub:** https://github.com/asiffahmadd
-
-</p>
 
 
