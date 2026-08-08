@@ -152,7 +152,12 @@ A full-stack web application to manage college operations including students, fa
 - ✅ Optimized SQL Server schema for 500+ student records
 
 ---
+<!-- LeetCode Stats -->
+<h2 align="center">🧩 Coding Profile & Problem Solving</h2>
 
+<p align="center">
+  <img src="https://leetcode-stats-api.herokuapp.com/AsifAhmadd" alt="Asif's LeetCode Stats" width="80%" />
+</p>
 
 
 ## 🏆 Achievements
