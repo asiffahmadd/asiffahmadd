@@ -28,16 +28,27 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asiffahmadd&show_icons=true&include_all_commits=true&count_private=true" 
-       alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiffahmadd" 
-       alt="GitHub Streak" />
+  <!-- Social badges -->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiffahmadd&layout=compact" 
-       alt="Top Languages" />
+  <!-- Profile views -->
+</p>
+
+<h2 align="center">🔥 GitHub Streak & Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiffahmadd" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asiffahmadd&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+## 📬 Contact Me
+
+<p align="center">
+  ...
 </p>
 
 ---
