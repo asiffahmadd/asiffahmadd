@@ -27,13 +27,7 @@
 </p>
 
 ---
-<p align="center">
-  <!-- Social badges -->
-</p>
 
-<p align="center">
-  <!-- Profile views -->
-</p>
 
 <h2 align="center">🔥 GitHub Streak & Activity</h2>
 
@@ -41,15 +35,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiffahmadd" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asiffahmadd&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-## 📬 Contact Me
-
-<p align="center">
-  ...
-</p>
 
 ---
 ## 📬 Contact Me
